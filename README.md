@@ -1,1 +1,2 @@
-# CourseMannagement
+# CourseManagement
++ data input
