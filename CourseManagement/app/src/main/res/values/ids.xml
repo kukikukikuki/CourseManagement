@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_zhuanye" type="id">0x7f050002</item>
+    <item name="tv_nianji" type="id">0x7f050001</item>
+    <item name="tv_zhuanyerenshu" type="id">0x7f050003</item>
+    <item name="tv_kechengmingcheng" type="id">0x7f050004</item>
+    <item name="tv_xuanxiuleixing" type="id">0x7f050005</item>
+    <item name="tv_xuefen" type="id">0x7f050006</item>
+    <item name="tv_xueshi" type="id">0x7f050007</item>
+    <item name="tv_shijianxueshi" type="id">0x7f050008</item>
+    <item name="tv_shangjixueshi" type="id">0x7f050009</item>
+    <item name="tv_qiqizhouxu" type="id">0x7f050010</item>
+    <item name="tv_renkejiaoshi" type="id">0x7f050011</item>
+    <item name="tv_beizhu" type="id">0x7f050012</item>
+</resources>
